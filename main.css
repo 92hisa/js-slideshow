@@ -1,0 +1,14 @@
+#wrap{
+  background-color: #ddd;
+}
+#slider{
+  width: 500px;
+  margin: auto;
+}
+
+#slider img{
+    width: 100%;
+    height: 300px;
+}
+
+  
